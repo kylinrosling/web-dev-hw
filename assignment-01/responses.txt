@@ -1,1 +1,7 @@
+The internet is a global network, and the web is a collection of information accessed by the internet.
 
+For the inernet to work it connects to an ISP, your computer contacts a network of servers(DNS)which tells your computer the IP address and it allows your browser to contact the web server.
+
+A directory is used to organize folders and files.
+
+It is beneficial because without it, it is like having no backups. It also allows you to add comments on what you may have edited.
