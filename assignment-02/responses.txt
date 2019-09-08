@@ -1,0 +1,13 @@
+Data travels in packet. Each packet  can carry a maximum of 1,500 bytes.
+Around the packets, there is a wrapper with a header and a footer and
+that contains information that tells computers what type of data is in
+the packet.
+
+An IP address is what is assigned to a computer/server allowing it to be
+identified on a network. A DSN address converts alphabetic references into
+a server's IP address.
+
+Cookies are most commonly used to track website activity. They are messages
+that web servers pass to your web browser when you visit internet sites.
+
+-The protocol, the domain name and the path
