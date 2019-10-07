@@ -1,47 +1,57 @@
-<!DOCTYPE html>
-<html lang="en-US" dir="ltr"
+<!<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport"
-    content="width-device-width,
-    initial-scale=1.0">
-    <meta name="description"
-    content="...">
-    <meta name="author"
-    content="Kylin Rosling">
-    <title>Assignment 06</title>
+    <meta charset="UTF-8">
+    <meta name= "author" content="Kylin Rosling">
+    <meta name="description" content="...">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Baskin Robbins</title>
     <style>
-      table, td {border: 1px solid
-      black}
-    </style>
+      table, th, td {border: 1px solid black;}
+      </style>
   </head>
 
   <body>
+    <h1>Contact Us!</h1>
+  <hr>
+    <address>
+      1880 Brooks St <br />
+      Missoula, Montana 59801<br />
+      (406) 542-2731 <br />
+    </address>
+    <p><a href="mailto:bridgepizza.hipstrip@gmail.com">E-mail Us!</a></p>
+    <p>or</p>
+   <p><a href="mailto:bridgepizza.hipstrip@gmail.com">
+     bridgepizza.hipstrip@gmail.com</a></p>
+  <hr>
     <table>
       <tr>
-        <th>Numbers</th>
-        <th>Letters</th>
+        <th>Information</th>
+        <th scope="col">Daily</th>
       </tr>
-
       <tr>
-        <td>One</td>
-        <td>A</td>
-      </tr>
-
-      <tr>
-        <td>Two</td>
-        <td></td>
-      </tr>
-
-      <tr>
-        <td>Three</td>
-        <td>C</td>
-      </tr>
-    </table>
-
-    <form actio="https://example.com/
-    registration.php" method="post">
-      
-    </form>
-  </body>
+        <th scope="row">Hours of Operation</th>
+        <td>11:00 AM - 10:00 PM</td>
+    </tr>
+    <tr>
+      <th scope="row">Friday and Saturday</th>
+      <td> 11:00 PM - 11:00 PM</td>
+    </tr>
+  </table>
+  <form action="http://www.example.com/login.php" method="post" id="sign-in" class="basic-forms">
+    <p>Sign-In:</p>
+    <p>
+      Net ID:
+      <input type="text" name="name" id="test-text" placeholder="ab123456"/>
+    </p>
+    <p>
+      Password:
+      <input type="password" name="password" id="test-password" />
+    </p>
+    <p>Comments or Concerns:</p>
+      <textarea name="comments" id="test-textarea">Enter up to 500 characters...
+      </textarea>
+      <input type="submit" name="enter" value="Enter" />
+  </form>
+</body>
 </html>
