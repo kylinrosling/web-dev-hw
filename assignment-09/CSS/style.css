@@ -2,23 +2,23 @@
 .main-container {
     border-style: solid;
     border-width: 2px;
-    border-color: limegreen;
+    border-color: aqua;
     padding: 10px;
-    background: #373E42;
+    background: #00C2BA;
 }
 /* Select all h1 elements. */
 h1 {
     border-style: solid;
     border-width: 2px;
-    border-color: orange;
-    background: #f1f1f1;
+    border-color: lavender;
+    background: #CE96FB;
 }
 /* Select ALL paragraph elements. */
 p {
     border-style: solid;
     border-width: 2px;
-    border-color: gold;
-    background: #f1f1f1;
+    border-color: teal;
+    background: #037A90;
 }
 hr {
   margin: 30px 0;
