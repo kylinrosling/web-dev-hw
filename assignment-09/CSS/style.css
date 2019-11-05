@@ -5,6 +5,7 @@
     border-color: aqua;
     padding: 10px;
     background: #00C2BA;
+    opacity: 2;
 }
 /* Select all h1 elements. */
 h1 {
