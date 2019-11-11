@@ -12,7 +12,7 @@ h1 {
 }
 h2 {
   font-family:'Barlow Condensed', sans-serif;
-  font-size: 24pt;
+  font-size: 36pt;
   font-weight: black 900;
   font-style: ;
   color: #ff6666;
@@ -30,9 +30,9 @@ h3 {
 }
 h4 {
   font-family:'Cormorant Garamond', serif;
-  font-size: 18pt;
+  font-size: 24pt;
   font-weight: bold 700;
-  font-style: ;
+  font-style: underline;
   color: #000000;
   text-align: center;
 }
