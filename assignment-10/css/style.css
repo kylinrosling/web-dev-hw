@@ -52,6 +52,7 @@ p {
 }
 .secondary-heading {
   background-color: #ffffff;
+  padding: 10pt;
 }
 p::first-line {
     font-family: 'Barlow Condensed', sans-serif;
