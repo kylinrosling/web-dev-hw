@@ -11,9 +11,9 @@ h1 {
   text-align: center;
 }
 h2 {
-  font-family:'Cormorant Garamond', serif;
+  font-family:'Barlow Condensed', sans-serif;
   font-size: 24pt;
-  font-weight: black 600;
+  font-weight: black 900;
   font-style: ;
   color: #ff6666;
   text-align: center;
@@ -41,7 +41,7 @@ p {
 }
 .main-content {
   align-items: center;
-  font-family:'Barlow Condensed', sans-serif;
+  font-family:'Cormorant Garamond', serif;
   font-size: 16pt;
   font-weight: normal;
   font-style: ;
@@ -56,7 +56,7 @@ p {
   padding: 10pt;
 }
 p::first-line {
-    font-family:'Barlow Condensed', sans-serif;
+    font-family:'Cormorant Garamond', serif;
     font-size: 18pt;
     font-weight: bold;
     color: #ff6666;
