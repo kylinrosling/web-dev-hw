@@ -13,10 +13,11 @@ h1 {
 h2 {
   font-family: 'Cormorant Garamond', serif;
   font-size: 24pt;
-  font-weight: bold 600;
+  font-weight: black 600;
   font-style: ;
   color: #ff6666;
   text-align: center;
+  text-transform: uppercase;
 }
 h3 {
   font-family: 'Barlow Condensed', sans-serif;
@@ -58,7 +59,7 @@ p::first-line {
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 18pt;
     font-weight: bold;
-    color: #ffffff;
+    color: #ff6666;
 }
 a:hover {
   color: #ffffff;
