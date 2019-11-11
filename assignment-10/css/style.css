@@ -3,7 +3,7 @@ body {
 }
 h1 {
   font-family: 'Caveat Brush', cursive;
-  font-size: 78pt;
+  font-size: 80pt;
   font-weight: regular 400;
   font-style: ;
   color: #ffffff;
@@ -15,13 +15,13 @@ h2 {
   font-size: 24pt;
   font-weight: semi-bold 600;
   font-style: ;
-  color: #;
+  color: ##ff6666;
   text-align: center;
 }
 h3 {
   font-family: 'Barlow Condensed', sans-serif;
   font-size: 36pt;
-  font-weight: semi-bold 600;
+  font-weight: bold 600;
   font-style: ;
   color: #000000;
   text-align: center;
@@ -32,7 +32,7 @@ h4 {
   font-size: 18pt;
   font-weight: semi-bold 600;
   font-style: ;
-  color: #;
+  color: #000000;
   text-align: center;
 }
 p {
@@ -58,7 +58,7 @@ p::first-line {
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 18pt;
     font-weight: bold;
-    color: #800000;
+    color: #ffffff;
 }
 a:hover {
   color: #ffffff;
@@ -68,7 +68,4 @@ a:hover {
 }
 .middle {
   margin: auto;
-}
-hr {
-  color: #ffffff;
 }
