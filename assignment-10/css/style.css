@@ -22,7 +22,7 @@ h2 {
 h3 {
   font-family:'Barlow Condensed', sans-serif;
   font-size: 48pt;
-  font-weight: bold 600;
+  font-weight: bold 700;
   font-style: ;
   color: #000000;
   text-align: center;
@@ -31,7 +31,7 @@ h3 {
 h4 {
   font-family:'Cormorant Garamond', serif;
   font-size: 18pt;
-  font-weight: bold 600;
+  font-weight: bold 700;
   font-style: ;
   color: #000000;
   text-align: center;
@@ -43,7 +43,7 @@ p {
   align-items: center;
   font-family:'Cormorant Garamond', serif;
   font-size: 16pt;
-  font-weight: normal;
+  font-weight: regular 400;
   font-style: ;
   color: #000000;
   text-align: center;
@@ -58,7 +58,7 @@ p {
 p::first-line {
     font-family:'Cormorant Garamond', serif;
     font-size: 18pt;
-    font-weight: bold 400;
+    font-weight: semi-bold 600;
     color: #ff6666;
 }
 a:hover {
