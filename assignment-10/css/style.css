@@ -7,6 +7,7 @@ h1 {
   font-weight: regular 400;
   font-style: ;
   color: #ffffff;
+  opacity: 0.5;
   text-align: center;
 }
 h2 {
@@ -22,7 +23,7 @@ h3 {
   font-size: 36pt;
   font-weight: semi-bold 600;
   font-style: ;
-  color: #;
+  color: #000000;
   text-align: center;
   text-transform: uppercase;
 }
@@ -43,7 +44,7 @@ p {
   font-size: 16pt;
   font-weight: normal;
   font-style: ;
-  color: #;
+  color: #000000;
   text-align: center;
   line-height: 2;
   padding: 10pt;
@@ -51,7 +52,6 @@ p {
 }
 .secondary-heading {
   background-color: #ffffff;
-  opacity: 0.5;
 }
 p::first-line {
     font-family: 'Barlow Condensed', sans-serif;
@@ -60,11 +60,14 @@ p::first-line {
     color: #800000;
 }
 a:hover {
-  color: #;
+  color: #ffffff;
 }
 .half-size {
   width: 75%;
 }
 .middle {
   margin: auto;
+}
+hr {
+  color: #ffffff;
 }
