@@ -4,7 +4,7 @@ body {
 h1 {
   font-family: 'Caveat Brush', cursive;
   font-size: 95pt;
-  font-weight: regular 400;
+  font-weight: normal 400;
   font-style: ;
   color: #ffffff;
   opacity: 0.5;
@@ -13,9 +13,9 @@ h1 {
 h2 {
   font-family: 'Cormorant Garamond', serif;
   font-size: 24pt;
-  font-weight: semi-bold 600;
+  font-weight: bold 600;
   font-style: ;
-  color: ##ff6666;
+  color: #ff6666;
   text-align: center;
 }
 h3 {
@@ -30,7 +30,7 @@ h3 {
 h4 {
   font-family: 'Cormorant Garamond', serif;
   font-size: 18pt;
-  font-weight: semi-bold 600;
+  font-weight: bold 600;
   font-style: ;
   color: #000000;
   text-align: center;
