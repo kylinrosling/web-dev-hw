@@ -1,0 +1,65 @@
+body {
+  background-color: #;
+}
+h1 {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 72pt;
+  font-weight: regular 400;
+  font-style: ;
+  color: #;
+  text-align: center;
+}
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30pt;
+  font-weight: semi-bold 600;
+  font-style: ;
+  color: #;
+  text-align: center;
+}
+h3 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 36pt;
+  font-weight: semi-bold 600;
+  font-style: ;
+  color: #;
+  text-align: center;
+  text-transform: uppercase;
+}
+h4 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 18pt;
+  font-weight: semi-bold 600;
+  font-style: ;
+  color: #;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.main-content {
+  align-items: center;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 16pt;
+  font-weight: normal;
+  font-style: ;
+  color: #;
+  text-align: center;
+  line-height: 2;
+  padding: 10pt;
+  background-color: #;
+}
+p::first-line {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18pt;
+    font-weight: bold;
+}
+a:hover {
+  color: #;
+}
+.half-size {
+  width: 75%;
+}
+.middle {
+  margin: auto;
+}
