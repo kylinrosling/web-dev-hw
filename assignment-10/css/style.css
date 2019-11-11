@@ -58,7 +58,7 @@ p {
 p::first-line {
     font-family:'Cormorant Garamond', serif;
     font-size: 18pt;
-    font-weight: bold;
+    font-weight: bold 400;
     color: #ff6666;
 }
 a:hover {
