@@ -2,7 +2,7 @@ body {
   background-color: #ff6666;
 }
 h1 {
-  font-family: 'Caveat Brush', cursive;
+  font-family:'Caveat Brush', cursive;
   font-size: 95pt;
   font-weight: normal 400;
   font-style: ;
@@ -11,7 +11,7 @@ h1 {
   text-align: center;
 }
 h2 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family:'Cormorant Garamond', serif;
   font-size: 24pt;
   font-weight: black 600;
   font-style: ;
@@ -20,7 +20,7 @@ h2 {
   text-transform: uppercase;
 }
 h3 {
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family:'Barlow Condensed', sans-serif;
   font-size: 48pt;
   font-weight: bold 600;
   font-style: ;
@@ -29,7 +29,7 @@ h3 {
   text-transform: uppercase;
 }
 h4 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family:'Cormorant Garamond', serif;
   font-size: 18pt;
   font-weight: bold 600;
   font-style: ;
@@ -41,7 +41,7 @@ p {
 }
 .main-content {
   align-items: center;
-  font-family: 'Barlow Condensed', sans-serif;
+  font-family:'Barlow Condensed', sans-serif;
   font-size: 16pt;
   font-weight: normal;
   font-style: ;
@@ -56,7 +56,7 @@ p {
   padding: 10pt;
 }
 p::first-line {
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family:'Barlow Condensed', sans-serif;
     font-size: 18pt;
     font-weight: bold;
     color: #ff6666;
