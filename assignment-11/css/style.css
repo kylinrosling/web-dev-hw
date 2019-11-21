@@ -45,7 +45,7 @@ header {
 }
 .site-name {
     float: left;
-    padding-right: 1em;
+    padding-right: 0em;
     color: #1CCDCA;
 }
 .site-brand {
