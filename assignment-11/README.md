@@ -2,7 +2,7 @@
 Margin is the transparent outer space beyond the border, and padding is the space in between the content and the inside part of the border.
 2. Embed the image of your sketch. image icon.
 
-<img src="./images/sketchimage.jpeg" />
+<img src="./images/sketchimage.jpg" />
 
 3. Free Response: Summarize your work cycle for this assignment
 I added the 4 main document elements and 4 meta elements.
