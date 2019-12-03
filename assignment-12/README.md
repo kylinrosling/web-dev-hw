@@ -1,4 +1,4 @@
-My imaginary client was a salon that needed a website that was capable of showing the services they provided and also providing clients with a form to schedule appointments.
+My clients were families that needed a website on simple photography that was capable of showing the services that i provided and also providing clients with a form to schedule appointments.
 
 Display: block is often used to create vertical menus out of lists. The display: inline rule forces elements to act like inline elements. The display: inline-block rule removes new lines inherent in block elements.
 
