@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Bilbo', cursive;
+src: url('../fonts/bilbo-Regular.ttf') format('opentype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'OpenSansCondensed', sans-serif;
+src: url('../fonts/OpenSansCondensed-light.ttf') format('opentype');
+font-weight: normal;
+font-style: ;
+text-transform: uppercase;
+}

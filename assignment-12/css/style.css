@@ -1,29 +1,29 @@
 /* SITE-WIDE ELEMENTS: */
   body {
     font-family: 'Lato', sans-serif;
-    background-color: PeachPuff;
+    background-color: gray;
     text-align: center;
   }
   h1 {
     font-size: 50pt;
-    font-family: 'Sofia', cursive;
-    color: PaleVioletRed;
+    font-family: 'bilbo', cursive;
+    color: cadetblue;
   }
   h2 {
     font-size: 24pt;
-    font-family:'Montserrat', sans-serif;
+    font-family:'OpenSansCondensed', sans-serif;
     color: ;
     text-transform: uppercase;
   }
   h3 {
     font-size: 20pt;
-    font-family: 'Mali', cursive;
+    font-family: 'lato', sans-serif;
     letter-spacing: 1px;
-    color: Peru;
+    color: darkseagreen;
   }
   h4 {
     font-size: 40pt;
-    font-family:'Montserrat', sans-serif;
+    font-family:'OpenSansCondensed', sans-serif;
     color: ;
     text-transform: uppercase;
   }
@@ -45,7 +45,7 @@
         text-transform: uppercase;
         font-size: 1.5em;
         letter-spacing: 1px;
-        color: Peru;
+        color: darkseagreen;
         margin: ;
         padding: ;
         text-align: center;
@@ -64,7 +64,7 @@
     font-size: 1em;
     font-family: 'Lato', sans-serif;
     padding: 10pt;
-    color:PeachPuff;
+    color:gray;
     text-align: center;
   }
   .subtitle {
@@ -74,15 +74,15 @@
 /* Submit Buttons */
   .button:active {
     color: white;
-    background-color: PaleVioletRed;
-    border-color: Peru;
+    background-color: cadetblue;
+    border-color: darkseagreen;
     border-width: 5px;
     border-style: double solid;
   }
   .button:hover {
     color: white;
     background-color: Peru;
-    border-color: PaleVioletRed;
+    border-color: cadetblue;
     border-width: 5px;
     border-style: double solid;
   }
@@ -90,7 +90,7 @@
     margin-top: 5em;
     padding: 1em;
     line-height: 1.4em;
-    background-color: PeachPuff;
+    background-color: gray;
     color: white;
   }
 /* IMAGES */
