@@ -1,0 +1,23 @@
+@font-face {
+font-family: 'Sofia', cursive;
+src: url('../fonts/Sofia-Regular.ttf') format('opentype');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'Montserrat', sans-serif;
+src: url('../fonts/Montserrat-Regular.ttf') format('opentype');
+font-weight: normal;
+font-style: ;
+text-transform: uppercase;
+}
+@font-face {
+font-family: 'Mali', cursive;
+src: url('../fonts/Mali-Regular.ttf') format('opentype');
+font-weight: normal;
+font-style: normal;
+}
+
+font-family: 'Sofia', cursive;
+font-family: 'Mali', cursive;
+font-family: 'Montserrat', sans-serif;

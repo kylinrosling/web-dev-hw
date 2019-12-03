@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+  <html lang="en-US" dir="ltr">
+    <head>
+      <meta charset="UTF-8">
+      <meta name= "author" content="Kaedin Rosling">
+      <meta name="description" content="This is my page on my CSS website">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="./css/fonts.css">
+          <link href="https://fonts.googleapis.com/css?family=Lato|Mali|Montserrat|Sofia&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="./css/menu.css">
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
+          <title>Assignment 12</title>
+    </head>
+
+    <body>
+      <header>
+        <!-- Site links for menu: -->
+            <menu>
+              <div id="site-links">
+                  <a href="./index.html" class="menu-item">HOME</a>
+                  <a href="./about.html" class="menu-item">About</a>
+                  <a href="./services.html" class="menu-item">Services</a>
+              <!-- Dropdown menu: -->
+                <div class="menu-item dropdown">
+                  <a href="#">Dropdown</a></menu>
+                    <div class="dropdown-content">
+                      <div class="dropdown-item">
+                        <a href="https://altruistsalon.com/">Altruist Salon</a></div>
+                      <div class="dropdown-item">
+                        <a href="https://www.treschicmissoula.com/">Tres Chic Salon</a></div>
+                      <div class="dropdown-item">
+                        <a href="https://406sprucedupsalon.com/">Spruced Up Salon</a></div>
+                    </div>
+                </div>
+              </div>
+      </header>
+      <div>
+        <h1>Contact<h1>
+      </div>
+        <div>
+          <h2>MANAGER</h2>
+            <p>Kaedin Rosling<p>
+            <p>Phone: (406)123-4567<p>
+            <p>Email: simplybeauty@gmail.com<p>
+        </div>
+        <div>
+          <h2>HOURS OF OPERATION</h2>
+            <p> Sun.:  CLOSED<p>
+            <p> Mon.: 8AM-7PM<p>
+            <p>Tues.: 8AM-7PM<p>
+            <p> Wed.: 8AM-7PM<p>
+            <p>Thur.: 8AM-7PM<p>
+            <p> Fri.: 8AM-7PM<p>
+            <p> Sat.:10AM-5PM<p>
+        </div>
+      <h2>Schedule an appointment!</h2>
+      <form action="http://www.example.com/subscribe.php" method="post">
+       <h3>Contact Information</h3>
+          <label>First Name:<br />
+            <input type="text" name="name" id="first-name" required /></label>
+            <br />
+          <label>Last Name:<br />
+            <input type="text" name="name" id="last-name" required /></label>
+            <br />
+          <label>Email:<br />
+            <input type="text" name="email" id="email" required /></label>
+            <br />
+          <label>Mobile:<br />
+            <input type="number" name="mobile" id="number" maxlength="10" size="10" required /></label>
+
+       <h3>Appointment Information</h3>
+        <p>Type:</p>
+            <input type="checkbox" name="hair" value="hair" /> Hair
+              <select name="hair" value="hair">
+                <option value="1">Cut</option>
+                <option value="2">Trim</option>
+                <option value="3">Color</option>
+                <option value="4">Highlights</option>
+            <br />
+            <br />
+            <input type="checkbox" name="nails" value="nails" /> Nails
+              <select name="nails" value="nails">
+                <option value="5">Gel Manicure</option>
+                <option value="6">Acrylic Manicure</option>
+                <option value="7">Nail Fill</option>
+                <option value="8">Pedicure</option>
+            <br />
+            <br />
+            <input type="checkbox" name="facial" value="facial" /> Facial
+              <select name="facial" value="facial">
+                <option value="9">Makeup</option>
+                <option value="10">Eyelashes</option>
+                <option value="11">Eyebrows</option>
+                <option value="12">Shave</option>
+      </form>
+    </body>
+
+</html>

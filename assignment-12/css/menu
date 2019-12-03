@@ -1,0 +1,61 @@
+/* MENU BAR (CONTAINER): */
+menu {
+  width: 100%;
+  position: fixed;
+  margin: 0;
+  padding: 1em;
+  background-color: Peru;
+  text-align: center;
+}
+
+
+/* TOP-LEVEL LINKS: */
+#site-links .menu-item {
+  width: 6em;
+  padding: .5em 1em;
+  display: inline-block;
+  background-color: rgb(205, 133, 63, 0.5);
+  text-align: center;
+  color: White;
+}
+#site-links .menu-item:hover {
+  color: PeachPuff;
+  background-color: PaleVioletRed;
+  text-decoration: underline overline;
+  text-decoration-color: Peru;
+  text-decoration-style: dotted;
+  text-align: center;
+}
+
+/* DROPDOWN: */
+.dropdown-content {
+    display: inline-block;
+    position: absolute;
+    border: ;
+    margin: 0;
+    color: ;
+    background-color: PaleVioletRed;
+}
+.dropdown:hover .dropdown-content {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: inline-block;
+}
+.dropdown-item {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 6em;
+  padding: .5em 1em;
+  display: inline-block;
+  position: absolute;
+  margin: ;
+  color: White;
+  background-color: PaleVioletRed;
+  z-index: 1;
+}
+.dropdown-item:hover {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: PaleVioletRed;
+  background-color: Peru;
+}
