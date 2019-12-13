@@ -1,0 +1,82 @@
+/* Set your header design: */
+menu {
+    position: fixed;
+    top: 0px;
+    background-color: #C9A091;
+    font-size: 30pt;
+    font-family: Amatic SC;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: auto;
+    width: 100%;
+    text-align: right;
+}
+
+/* Set the layout of the menu: */
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: ;
+    padding: 0.5em 1em;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: rosybrown;
+    text-decoration: underline solid 2px #875855;
+}
+
+.menu-item:hover {
+    color: #B73B0D;
+    background-color: ;
+    font-weight: bold;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: rosybrown;
+    background-color: white;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: rosybrown;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #401809;
+    font-weight: bold;
+    background-color: #875855;
+}
+/* Style the page: */
+body {
+  font-family: Quicksand;
+  font-size: 16pt;
+  color: #B73B0D;
+    margin: 0;
+    padding: 0;
+    background-color: lightcoral;
+}
