@@ -4,7 +4,7 @@ menu {
     top: 0px;
     background-color: #C9A091;
     font-size: 30pt;
-    font-family: Amatic SC;
+    font-family: Roboto Condensed;
     font-weight: bold;
     text-transform: uppercase;
     margin-top: 0;
@@ -73,47 +73,47 @@ menu {
 }
 /* Style the page: */
 body {
-  font-family: Quicksand;
+  font-family: Lilita One;
   font-size: 16pt;
   color: #B73B0D;
     margin: 0;
     padding: 0;
-    background-color: lightcoral;
+    background-color: ;
 }
 /* Style the Headings */
 h1 {
-  font-family: Grand Hotel;
+  font-family: Dancing Script;
   font-size: 60pt;
-  color: #d96459;
+  color: palevioletred;
   align: center;
 }
 h2 {
-  font-family: Amatic SC;
+  font-family: Roboto Condensed;
   font-size: 48pt;
   font-weight: bold;
-  color: #d96459;
+  color: rosybrown;
   align: center;
 }
 h3  {
-  font-family: Calistoga;
+  font-family: Lilita One;
   font-size: 32pt;
-  color: #faffc6;
+  color: lightgrey;
   align: center;
 }
 h4 {
-  font-family: Quicksand;
+  font-family: RobotoCondensed;
   font-size: 40pt;
   text-transform: uppercase;
 }
 /* Style the Main Content: */
 .title {
-  font-family: Grand Hotel;
-  color: #d96459;
+  font-family: Lilita One;
+  color: #salmon;
   font-size: 48pt;
 }
 .subtitle {
-  font-family: Calistoga;
-  color: #e06377;;
+  font-family: Roboto Condensed;
+  color: maroon;
   font-size: 32pt;
 }
 .site-name {
@@ -142,19 +142,19 @@ h4 {
 }
 @font-face {
 font-family: 'Roboto Condensed', sans-serif;
-src: url('../fonts/GrandHotel-Regular.ttf');
-font-weight: normal;
+src: url('../fonts/RobotoCondensed-Bold.ttf');
+font-weight: Bold;
 font-style: normal;
 }
 @font-face {
 font-family: 'Dancing Script', cursive;
-src: url('../fonts/AmaticSC-Bold.ttf');
-font-weight: bold;
+src: url('../fonts/DancingScript-Regular.ttf');
+font-weight: ;
 font-style: normal;
 }
 @font-face {
 font-family: 'Lilita One', cursive;
-src: url('../fonts/Calistoga-Regular.ttf');
+src: url('../fonts/LilitaOne-Regular.ttf');
 font-weight: normal;
 font-style: normal;
 }
