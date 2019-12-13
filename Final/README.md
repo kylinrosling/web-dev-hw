@@ -6,4 +6,4 @@ I assumed that you could select the colors/fonts within atom and I didn't knoW t
 
 Free Response: Summarize your work cycle for this assignment.
 I added the HTML document elements, meta tags, and linked CSS files.
-Then added divs and classes. Along with page-to-page navigation and a dropdown menu. Inputed structural and semantic HTML. Used a form, with input elements and submit button. Added images, used media and added different fonts and colors.
+Then added divs and classes. Along with page-to-page navigation and a dropdown menu. Inputed structural and semantic HTML. Used a form, with input elements and submit button. Added images, used media and added different fonts and colors. I've looked over my code multiple times and I have all my colors and fonts but its not seeming to transition, and I'm not sure what i am missing that would fix my mistake
